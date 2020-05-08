@@ -1,0 +1,135 @@
+body{
+  margin:0px;
+  padding: 0px;
+  background-color: #f9f9f9;
+  font-family: 'Righteous', cursive;
+}
+
+.contact{
+  color:#0017ab;
+}
+
+.cell{
+  color: #77d8d8;
+}
+
+.container-fluid{
+  background-color: black;
+
+}
+.carousel-inner{
+  width:100%;
+  max-height: 800px;
+}
+.custom-toggler.navbar-toggler {
+            border-color: white;
+        }
+        .custom-toggler .navbar-toggler-icon {
+                 background-image: url(
+     "data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+             }
+hr{
+  display: block;
+  width: 10%;
+  height: 20px;
+  background-color:#77d8d8;
+
+
+}
+.Entre-class{
+  color: #77d8d8;
+}
+
+.images{
+  background-color: #000000;
+}
+.index-text{
+  color: white;
+
+}
+.links{
+  color:white;
+  font-size: 20px;
+}
+.navbar-custom{
+  background-color: black;
+  padding-bottom: 0px;
+
+}
+
+.navbar-custom2{
+  background-color: black;
+  padding: 3%;
+  text-align: center;
+}
+
+.nav-link{
+  color:#979797;
+}
+.nav-link:hover{
+  color: white;
+}
+.para{
+  color:red;
+}
+
+.px-wide{
+  width: 90%;
+  height: 2%;
+  margin-left: 6% ;
+
+}
+.row{
+
+}
+.text{
+  color:#77d8d8;
+}
+.top{
+  background-color: #035aa6;
+  margin: 0px 0px 0px 0px;
+  height: 50px;
+}
+.team-image{
+    padding-top: 50px;
+    padding-right: 15px;
+    text-align: center;
+    padding-left: 15px;
+    margin: 60px auto 10px;
+
+}
+
+.team-space1{
+  padding: 30px;
+}
+
+.team-space2{
+  padding: 0px;
+}
+.sandeep{
+  border: 1px solid white;
+  border-radius: 110px;
+}
+.abhishek{
+  border: 1px solid white;
+  border-radius: 200px;
+}
+.bottom{
+  margin: 20px 0px 0px 0px;
+  background-color: #035aa6;
+  height: 50px;
+}
+.title{
+  padding-left: 40px;
+}
+.title1{
+  padding-left: 200px;
+  text-align: center;
+}
+.vision{
+margin: 40px 0px 20px 50px;
+margin-bottom: 60px;
+}
+.vision-text{
+  font-family: 'Handlee', cursive;
+}
